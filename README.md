@@ -71,7 +71,7 @@ jupyter notebook geolift_walkthrough.ipynb   # run top to bottom
 The notebook writes the figures and `results.json` as it runs. It's reproducible
 (seed 42).
 
-## Honest limitations
+## Experimental limitations
 
 - The +10% lift is injected to validate the method, not a live campaign result.
 - A 10-day window underpowers small effects and a real ~5% test definitely would need a longer window or more markets.
