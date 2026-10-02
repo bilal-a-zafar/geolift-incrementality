@@ -82,4 +82,4 @@ The notebook writes the figures and `results.json` as it runs. It's reproducible
 Meta's open-source GeoLift example set: 40 geographies, daily conversions, 90 days.
 The `.rda` files are in `data/`.
 
-Built by Bilal Zafar — [linkedin.com/in/bilal-zafar1](https://linkedin.com/in/bilal-zafar1)
+Built by Bilal Zafar - [linkedin.com/in/bilal-zafar1](https://linkedin.com/in/bilal-zafar1)
