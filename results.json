@@ -1,0 +1,21 @@
+{
+  "pre_fit_mape_pct": 2.89,
+  "sc_pct_lift": 12.03,
+  "placebo_null_sd_pct": 3.03,
+  "perm_p_value": 0.0,
+  "sc_ci_lo_pct": 6.09,
+  "sc_ci_hi_pct": 17.96,
+  "n_placebo": 200,
+  "backtest_insample_mape_pct": 2.89,
+  "backtest_oos_mape_pct": 2.93,
+  "placebo_in_time_pct": -4.41,
+  "mde_pct": 8.49,
+  "power_at_true": 0.91,
+  "power_at_5pct": 0.379,
+  "naive_growth_pct": 12.58,
+  "naive_indexed_pct": 13.39,
+  "bayes_pct_lift": 13.8,
+  "robust_pre_gap_sd_pct": 4.2,
+  "robust_bias_sig_pct": 5.6,
+  "robust_bias_erase_pct": 11.7
+}
